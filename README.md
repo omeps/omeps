@@ -1,4 +1,2 @@
--omeps
--trying to learn C 
--discord: omeps
+trying to learn C-----discord: omeps
 
